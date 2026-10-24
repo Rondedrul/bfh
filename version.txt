@@ -1,2 +1,2 @@
-1.0.99
-een automatisch update bericht, een huis
+1.0.45
+een automatisch update bericht, een trap
