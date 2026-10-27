@@ -1,2 +1,2 @@
-1.0.42
-een automatisch update bericht, een muis
+1.0.43
+BFH privéberichten met /cmsg, nog wa dingehtjus
